@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: publications by categories in reversed chronological order. You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=51itJEEAAAAJ&hl=en).
+description: publications by categories in reversed chronological order. You can also find my articles on <a href='https://scholar.google.com/citations?user=51itJEEAAAAJ&hl=en/'>my Google Scholar profile</a>. 
 years: [2021,2020,2019,2018,2017]
 nav: true
 ---
