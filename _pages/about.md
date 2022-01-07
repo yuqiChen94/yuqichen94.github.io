@@ -7,8 +7,8 @@ subtitle: <a href='https://www.shanghaitech.edu.cn/'>assistant professor@Shangha
 profile:
   align: right
   image: prof_pic.jpg
-  address: >  
-    <p>Shanghai</p>
+  # address: >  
+  #   <p>Shanghai</p>
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
