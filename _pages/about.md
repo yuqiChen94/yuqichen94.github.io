@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.shanghaitech.edu.cn/'>assistant professor@ShanghaiTech University</a>
+subtitle: # <a href='https://www.shanghaitech.edu.cn/'>assistant professor@ShanghaiTech University</a>
 
 profile:
   align: right
