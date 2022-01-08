@@ -1,7 +1,7 @@
 ---
 layout: page
 title: submenus
-nav: true
+nav: flase
 dropdown: true
 children: 
     - title: publications
