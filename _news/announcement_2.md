@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I will Join School of Information Science and Technology @ShnagiTech as assistant professor!
-date: 2022-01-11 13:11:00-0400
+date: 2022-01-11 13:11:00
 inline: false
 ---
 
