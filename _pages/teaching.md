@@ -7,6 +7,6 @@ nav: true
 ---
 
 ## Teaching Assistant 
-Elements of Software Construction  prof. Sun Jun SUTD
+Elements of Software Construction, SUTD (Instructor: prof. Sun Jun) 
  
-Artificial Intelligence prof. Alexander Binder SUTD 
+Artificial Intelligence, SUTD (Instructor: prof. Alexander Binder) 
