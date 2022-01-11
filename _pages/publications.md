@@ -6,8 +6,7 @@ description: publications by categories in reversed chronological order. You can
 years: [2021,2020,2019,2018,2017,2016]
 nav: true
 ---
-TOP 4 Security Conferences (S&P, CCS, USENIX, NDSS)
-
+TOP 4 Security Conferences (S&P, CCS, USENIX, NDSS)  
 TOP 4 Software Engineering (ICSE, FSE, ASE, ISSTA)
 
 <!-- _pages/publications.md -->
