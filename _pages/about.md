@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: # <a href='https://www.shanghaitech.edu.cn/'>assistant professor@ShanghaiTech University</a>
 
