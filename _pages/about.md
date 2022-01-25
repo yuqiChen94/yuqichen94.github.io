@@ -16,3 +16,6 @@ social: true  # includes social icons at the bottom of the page
 
 
 I will join [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/) of [ShanghaiTech University](https://www.shanghaitech.edu.cn/) in March 2022 as a tenure-track assistant professor. I completed my Ph.D. in 2019 at the [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), under the supervision of [Sun Jun](https://sunjun.site/) and and closely collaborated with [Chris Poskitt](https://cposkitt.github.io/). From 2019 to 2021, I worked as a Research Scientist in the [System Analysis and Verification (SAV) group](https://sav-smu.github.io/) at [Singapore Management University(SMU)](https://www.smu.edu.sg/).
+
+
+<font color=red>I am actively looking for self-motivated Ph.D./master students! if you are interested in my research topics and wish to have a talk, drop me an email. </font>
