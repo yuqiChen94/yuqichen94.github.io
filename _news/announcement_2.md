@@ -1,8 +1,0 @@
----
-layout: post
-title: I will Join School of Information Science and Technology @ShnagiTech as assistant professor!
-date: 2022-01-11 13:11:00
-inline: false
----
-
-My contract in SMU will be over at the end of March 2022. Look forward to my new journey in Shanghai!
