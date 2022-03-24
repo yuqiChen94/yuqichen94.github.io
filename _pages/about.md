@@ -19,4 +19,4 @@ I will join [School of Information Science and Technology](https://sist.shanghai
 
 My research interest lies in cyber-physical system security in general. Specifically, I apply techniques like testing, reverse engineering, program analysis, and formal method to secure and analyze CPSs (e.g., autonomous vehicles,  industrial control systems, and robotics systems). 
 
-I am looking for motivated MS/PhD students. Please drop me an email if your are interested. (My email: phoenixcyq1994@gmail.com)
+I am looking for motivated MS/PhD students. Please drop me an email if you are interested. (My email: phoenixcyq1994@gmail.com)
